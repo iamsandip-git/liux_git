@@ -1,0 +1,56 @@
+ls=list file or directory in current working directory
+cd= change directory
+ls -a=list hidden as well as normal files and directory in current directory
+mkdir= make directory
+touch=creates new file and uppdates timestamps of files
+rm=remove files
+rm -f=removes files forcefully
+rm -rf=removes directory forcefully and recursively
+mv=moves or renames files and directory 
+cat= concatenates and displays files in terminal
+less= displays files pages wise
+more= displays files page wise 
+cut=cut and displays stings or text in files
+grep= searches specifeid input in files 
+pipe(|)=passes the output of one command into as a input of another command
+> = writes into the files in combination of cat command
+>> = appends and writes into the files
+top = shows the systems performence and resource usage
+free = shows the free resource and usage resourse
+history = shows the previously applied command
+ps = shows processes
+ps -ef=shows all running processes in full format listing
+ps -aux= shows all users processes that are not apart of the terminal
+su = switch users
+sudo= super user DO 
+adduser= adds user
+deluser= deletes user
+chmod= edits files and directory permission
+chown= changes the ownership of the files and directory
+chgrp= changes the group ownership of the file
+cp = copy files and directory from one location to another location
+awk= text processing tools(scanning,processing and extracting)  
+lsblk= lists block devices
+curl=file transferring protocol for http,https.ftp
+wget=another file transfering protocol for http ftp
+htop=colorful diplay of system usages and running processes
+ssh- secure shell
+kill= kills the specified process id
+df=disk free
+scp= secure copy
+rsync= Copy files to or from a remote server using SSH
+vi = creates and edits text files
+systemctl= for daemon services 
+telnet=used to establish a connection to a remote system over the Telnet protocol
+ifconfig= Unix systems used to configure and display information about network interfaces
+ping= used to check connection between host and internet
+iptables= used to see the ip rules 
+ip a= used to see the ip of the host machine
+passwd= to set the password of the user
+head=shows begging of the file 10 lines by default
+tail -f=follows log of a process
+tail= shows end of the file
+netstat=shows ports and listenings
+
+
+
